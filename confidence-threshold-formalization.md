@@ -1,9 +1,7 @@
-# From Similarity Scores to Risk-Optimized Decision Thresholds  
-### A Governance Layer for Enterprise AI
+**Published:** 14 February 2026  
+**Context:** Governance-First RAG Architecture 
 
----
-
-## 1. Problem Statement
+##  Problem Statement
 
 In many Retrieval-Augmented Generation (RAG) systems, “confidence” is often treated as:
 
@@ -23,7 +21,7 @@ The real question is:
 
 ---
 
-## 2. Why Similarity ≠ Confidence
+##  Why Similarity ≠ Confidence
 
 In an AI-assisted onboarding system, multiple signals contribute to a decision:
 
@@ -43,7 +41,7 @@ Confidence must therefore be reframed.
 
 ---
 
-## 3. Probabilistic Framing
+##  Probabilistic Framing
 
 Let:
 
@@ -71,7 +69,7 @@ It is a belief under uncertainty.
 
 ---
 
-## 4. Cost-Sensitive Bayesian Decision Rule
+## Cost-Sensitive Bayesian Decision Rule
 
 Enterprise decisions operate under asymmetric cost.
 
@@ -95,7 +93,7 @@ It is derived from risk exposure.
 
 ---
 
-## 5. Governance Implications in BFSI
+##  Governance Implications in BFSI
 
 In banking environments:
 
@@ -119,7 +117,7 @@ It is structured risk management.
 
 ---
 
-## 6. Human-in-the-Loop Justification
+##  Human-in-the-Loop Justification
 
 Under this framework:
 
@@ -133,7 +131,7 @@ It is a designed safety valve.
 
 ---
 
-## 7. Alignment with the Probabilistic Operating System (POS)
+##  Alignment with the Probabilistic Operating System (POS)
 
 The Probabilistic Operating System (POS) principle asserts:
 
