@@ -147,3 +147,4 @@ If this archive proves useful to others, that is welcome. If it primarily helps 
 
 - **From Similarity Scores to Risk-Optimized Decision Thresholds**
  [Read →](confidence-threshold-formalization.html)
+ *(Tags: AI Governance, Bayesian Decision Theory, BFSI)*
