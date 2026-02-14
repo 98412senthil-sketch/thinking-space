@@ -144,3 +144,6 @@ If this archive proves useful to others, that is welcome. If it primarily helps 
 
  - **Why Bayesian networks are about how we reason**
   [Read →](why-bayesian-networks-are-about-how-we-reason.html)
+
+- **From Similarity Scores to Risk-Optimized Decision Thresholds**
+ [Read →](confidence-threshold-formalization.html)
