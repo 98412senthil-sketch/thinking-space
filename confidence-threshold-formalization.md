@@ -1,8 +1,4 @@
----
-layout: page
-title: From Similarity Scores to Risk-Optimized Decision Thresholds
-date: 2026-02-14
----
+## Confidence Thershold formalization
 
 **Published:** 14 February 2026  
 **Context:** Governance-First RAG Architecture 
